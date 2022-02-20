@@ -17,6 +17,7 @@ branch
 reset
 ----------------
 git reset HEAD~1
+git resert HEAd~2
 
 
 
