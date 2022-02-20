@@ -14,10 +14,6 @@ branch
 -----------------
 1)git branch branch_name
 
-reset
-----------------
-git reset HEAD~1
-
 
 
 
