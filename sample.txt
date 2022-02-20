@@ -4,6 +4,12 @@
 4)git pull
 5)git push 
 
+
+git branch -M main
+git remote add origin https://github.com/gvsn970/sample_git_training.git
+git push -u origin main
+
+
 branch
 -----------------
 1)git branch branch_name
